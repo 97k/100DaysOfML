@@ -15,3 +15,12 @@
 **Thoughts** : Hope I'd be able to reduce error rate and submit my predictions to kaggle!
 
 **Link to work:** [HousingPrice IPYNB](https://github.com/aditya98ak/100DaysOfML/blob/master/kaggle/house-prices-advanced-regression-techniques/HousingPrice.ipynb)
+
+## Day 3 : July 08 , 2018
+
+**Today's Progress** : Submitted predictions on kaggle, Got Score of 0.16(RMSE) w/ Rank 2988/5k
+
+**Thoughts** : Hope I'd be able to reduce error rate...
+
+**Link to work:** [HousingPrice IPYNB](https://github.com/aditya98ak/100DaysOfML/blob/master/kaggle/house-prices-advanced-regression-techniques/HousingPrice.ipynb)
+
