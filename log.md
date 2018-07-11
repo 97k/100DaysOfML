@@ -31,3 +31,11 @@
 **Thoughts** : I didn't made notes before, now I am working hard and smart!
 
 **Link to work:** NaN
+
+## Day 5 : July 10 , 2018
+
+**Today's Progress** : Revised Regularization and Started exploring Unsupervised Learning...
+
+**Thoughts** : Not productive day, hope to make the coming days count!
+
+**Link to work:** NaN
