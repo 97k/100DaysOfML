@@ -39,3 +39,11 @@
 **Thoughts** : Not productive day, hope to make the coming days count!
 
 **Link to work:** NaN
+
+## Day 6 : July 11 , 2018
+
+**Today's Progress** : K-means algo with optimization objective, Data Compression(intro), PCA, Started revising Linear Algebra!
+
+**Thoughts** : I am thinking to write a blogpost on K-means!
+
+**Link to work:** NaN
