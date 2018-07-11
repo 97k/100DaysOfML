@@ -1,7 +1,7 @@
 # 100 Days Of ML - LOG
 
 ## Day 1 : July 06 , 2018
- 
+
 **Today's Progress** : Did exploratory data analysis on [HousingPrice](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) @[kaggle](https://www.kaggle.com)!
 
 **Thoughts** : I found multicollinearity in the dataset, hope I'd be able to fight this!
@@ -24,3 +24,10 @@
 
 **Link to work:** [HousingPrice IPYNB](https://github.com/aditya98ak/100DaysOfML/blob/master/kaggle/house-prices-advanced-regression-techniques/HousingPrice.ipynb)
 
+## Day 4 : July 09 , 2018
+
+**Today's Progress** : Revised Linear Regression, Logsitic Regression, Bias Variance
+
+**Thoughts** : I didn't made notes before, now I am working hard and smart!
+
+**Link to work:** NaN
