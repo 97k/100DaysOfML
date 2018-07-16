@@ -82,8 +82,8 @@
 
 ## Day 11 : July 16, 2018
 
-**Today's Progress** : Learned some basics in NLP viz, tokenizing, stemming, CountVectorization, TF-IDF, MultinomialNB
+**Today's Progress** : Did NLP basics viz, tokenization, stemming, TF-IDF and some sklearn viz CountVectorization, pipeline etc!
 
-**Thoughts** : I know the basics it's time to play now! Aim: dive deeper in NLP
+**Thoughts** : Now will dive deeper in NLP, I wish to do sentiment analysing using nltk soon!
 
-**Link to work:** : NaN
+**Link to work:** [NLP Package](https://github.com/aditya98ak/100DaysOfML/blob/master/nlp/)
