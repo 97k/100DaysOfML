@@ -55,3 +55,35 @@
 **Thoughts** : I need to work on my time management skills, Wish to solve an Unsupervised learning problem on kaggle!
 
 **Link to work:** : https://medium.com/@adityakaushik471/kmeans-algorithm-25634378261b
+
+## Day 8 : July 13, 2018
+
+**Today's Progress** : I was busy Crunching the resources to learn NLP, found many!
+
+**Thoughts** : For an internship in ds/ml, I need to do some portfolio projects! After NLP I'll put all in for spam classifier!
+
+**Link to work:** : NaN
+
+## Day 9 : July 14, 2018
+
+**Today's Progress** : Revised my ML notes on regression, classification.
+
+**Thoughts** : My college are going to start from monday, so I gotta implement my new schedule to work in effective way!
+
+**Link to work:** : NaN
+
+## Day 10 : July 15, 2018
+
+**Today's Progress** : Started learning NLP! Learned about nltk tokenizers, corpus, lexicons.
+
+**Thoughts** : This domain is awesome, I'll dive more deeper in this and # TODO soon will write a blog post! 
+
+**Link to work:** : NaN
+
+## Day 11 : July 16, 2018
+
+**Today's Progress** : Learned some basics in NLP viz, tokenizing, stemming, CountVectorization, TF-IDF, MultinomialNB
+
+**Thoughts** : I know the basics it's time to play now! Aim: dive deeper in NLP
+
+**Link to work:** : NaN
