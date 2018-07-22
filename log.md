@@ -104,5 +104,14 @@
 
 **Link to work:** NaN
 
+## Day 17 : July 22, 2018
+
+**Today's Progress** : Got myself into a data hackathon, made a RandomForestClassifier with 80% accuracy in first turn; 
+
+**Thoughts** : I started late, got only 2 hours to code so now, I'am planning to do some feature engineering, play more with data and take accuracy to above 90
+
+**Link to work:** [AV DataHack.ipynb](https://github.com/aditya98ak/100DaysOfML/blob/master/AV%20DataHack/the-data-supremacy/AV%20DataHACK.ipynb)
+
+
 
 
