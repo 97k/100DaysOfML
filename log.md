@@ -96,4 +96,13 @@
 
 **Link to work:** NaN
 
+## Day 13-16 : July 18-21, 2018
+
+**Today's Progress** : Completed sentdex course.
+
+**Thoughts** : Now, it's time to make portfolio projects.
+
+**Link to work:** NaN
+
+
 
