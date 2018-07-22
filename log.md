@@ -87,3 +87,13 @@
 **Thoughts** : Now will dive deeper in NLP, I wish to do sentiment analysing using nltk soon!
 
 **Link to work:** [NLP Package](https://github.com/aditya98ak/100DaysOfML/blob/master/nlp/)
+
+## Day 12 : July 17, 2018
+
+**Today's Progress** : Revised NLP till date, explored many subreddits on machine learning.
+
+**Thoughts** : This is exciting, Wish, to explore research papers,
+
+**Link to work:** NaN
+
+
